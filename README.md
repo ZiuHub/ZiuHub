@@ -21,3 +21,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ZiuHub&theme=onedark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiuHub&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
