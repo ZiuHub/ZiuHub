@@ -1,6 +1,5 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?text=ZiuHub&animation=fadeIn&type=waving&color=gradient&height=100"/></p>
 
-<h3 align="center">🐍 WATCH THE SNAKE MUNCHIN'!</3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiuHub/ZiuHub/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiuHub/ZiuHub/output/github-contribution-grid-snake.svg">
