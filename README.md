@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiuHub/ZiuHub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiuHub/ZiuHub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZiuHub/ZiuHub/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🔥 My Bio:
 🎓 I’m currently a student at a university<br>💻 I’m currently learning C, C++, HTML, CSS, Java & Python<br>💭 Come ask about me, myself & I<br>🎨 Fun fact that I'm an art & design enthusiast
 
