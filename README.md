@@ -6,7 +6,7 @@
 </picture>
 
 ## 🔥 My Bio:
-🎓 I’m currently a student at a university<br>💻 I’m currently learning C, C++, HTML, CSS, Java & Python<br>💭 Come ask about me, myself & I<br>🎨 Fun fact that I'm an art & design enthusiast
+🎓 I’m currently a student at a university<br>💻 I’m currently learning C, C++, HTML, CSS, Java & Python<br>💭 Let's talk about anything random<br>🎨 Fun fact that I'm an art & design enthusiast
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziurama) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agung-ramadhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agunggramadhann@gmail.com) 
